@@ -1,6 +1,6 @@
 ## vertx8583
 
-This project is using JPOS and Vertx to parse iso 85383 message over tcp network
+This project is using JPOS and Vertx to parse [ISO 8583](https://en.wikipedia.org/wiki/ISO_8583) message over tcp network
 
 ##  Step to use it
 
